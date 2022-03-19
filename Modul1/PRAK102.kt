@@ -15,5 +15,6 @@ fun main(){
     nilai = input.nextInt()
 
     println(rumus(nilai))
+    
 }
 
