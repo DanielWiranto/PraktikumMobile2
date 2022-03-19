@@ -5,7 +5,7 @@ import java.util.*
 fun main ()
 {
     val input = Scanner(System.`in`)
-    print("Nilai : ")
+    print("Input Bilangan : ")
     val nilai = input.nextInt();
 
     var Jumlah : Int
